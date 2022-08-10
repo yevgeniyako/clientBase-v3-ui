@@ -1,0 +1,29 @@
+{
+  "name": "clientbase-v3-ui",
+  "version": "1.0.0",
+  "description": "UI framework for ClientBase v3",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yevgeniyako/clientBase-v3-ui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yevgeniyako/clientBase-v3-ui/issues"
+  },
+  "homepage": "https://github.com/yevgeniyako/clientBase-v3-ui#readme",
+  "dependencies": {
+    "cypress": "^9.6.0",
+    "eslint": "^8.21.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1"
+  },
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
